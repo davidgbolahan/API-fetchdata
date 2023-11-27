@@ -1,0 +1,19 @@
+{
+  "name": "apicheckpoint",
+  "version": "1.0.0",
+  "description": "API FETCH DATA",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "Davidgbolahan"
+  },
+  "author": "David",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "mongoose": "^8.0.1"
+  }
+}
